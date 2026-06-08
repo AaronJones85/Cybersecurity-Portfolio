@@ -1,4 +1,4 @@
-# Lab 05 — Splunk SIEM Log Analysis & Brute Force Detection
+# Lab 04 — Splunk SIEM Log Analysis & Brute Force Detection
 
 **Date:** June 7, 2026
 **Platform:** Splunk Enterprise (Local install on macOS)
